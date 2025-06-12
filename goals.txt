@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Complete a professional certificate in Software Engineering with a focus on AI and Cybersecurity.
+- Build 3 IoT-based projects that contribute to energy efficiency or smart infrastructure.
+- Contribute to at least one open-source project on GitHub.
+- Improve my coding skills in Python, C++, and JavaScript.
+- Attend or participate in at least two tech hackathons or innovation challenges.
