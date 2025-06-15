@@ -1,3 +1,3 @@
-I’ve learned how to create repositories
-Branches, make commits, and collaborate using GitHub. 
+What I have learned from this course
+I’ve learned how to create repositories, branches, make commits, and collaborate using GitHub. 
 It’s exciting to see how real-world collaboration happens in software development!
